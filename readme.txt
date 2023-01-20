@@ -1,4 +1,4 @@
-conv_wav_img_to_mpr.py 
+conv_wav_img_to_mp4.py 
 
 This script takes as an input an image and creates mp4 videos from all wav files in the directory it is run in. 
 The lenght of the video is same as the lenght of the audio file. 
